@@ -2,7 +2,6 @@
 title: Obsidian 저장공간 Git repository와 동기화
 author: root-book09
 date: 2023-01-18
-category: Obsidian
 layout: post
 ---
 
